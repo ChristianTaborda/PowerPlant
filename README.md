@@ -1,6 +1,6 @@
 # Energy
 fo run:
-pipenv shell
-pipenv install
-cd plantaGUIFuentes 
-python3 main.py
+pipenv shell,
+pipenv install,
+cd plantaGUIFuentes, 
+python3 main.py,
