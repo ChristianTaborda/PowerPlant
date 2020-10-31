@@ -1,5 +1,5 @@
 # Energy
-fo run:
+fo run:\n
 pipenv shell,
 pipenv install,
 cd plantaGUIFuentes, 
